@@ -1,15 +1,12 @@
 import PropTypes from 'prop-types'
 import Button from './Button'
 
-const Header = ({title}) => {
-    const onClick = () => {
-        console.log('click')
-    }
+const Header = ({title, onAdd, showAdd}) => {
     
     return (
         <header className='header'>
             <h1>{title}</h1>
-            <Button onClick = {onClick}/>
+            <Button color={showAdd ? 'Red' : 'Green'} text={showAdd ? 'Hide' : 'Add'} onClick = {onAdd}/>
         </header>
     )
 }
@@ -22,9 +19,5 @@ Header.propTypes = {
     title: PropTypes.string,
 }
 
-// const headingStyle = {
-//     color : 'white',
-//     backgroundColor: "grey"
-// }
 
 export default Header
