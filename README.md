@@ -25,5 +25,6 @@ It is a simple task tracker app
 ![image](https://user-images.githubusercontent.com/31237137/134461078-5b322833-4008-46e7-94a5-ed3ba6ca14ad.png)
 
 Interacts with JsonServer package to replicate a mock backend database
+
 ![image](https://user-images.githubusercontent.com/31237137/134461195-ed29c2e9-53c9-4e1c-aa60-5310bdd193e0.png)
 
