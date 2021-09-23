@@ -19,6 +19,7 @@ It is a simple task tracker app
 ![image](https://user-images.githubusercontent.com/31237137/134460947-d5743835-489b-4f0b-971d-903f3af5b057.png)
 ![image](https://user-images.githubusercontent.com/31237137/134460997-3d0614a1-bc46-4d18-b566-f6aff774c2a6.png)
 ![image](https://user-images.githubusercontent.com/31237137/134461013-8789cd6d-e1a3-486a-a2c6-8e58bbcebdbd.png)
+![image](https://user-images.githubusercontent.com/31237137/134463914-d2c42eab-9f1c-4c1e-924a-c5fe9ef24f9a.png)
 ![image](https://user-images.githubusercontent.com/31237137/134461034-01e5fe66-41d8-47a7-8e97-daceebd15e01.png)
 ![image](https://user-images.githubusercontent.com/31237137/134461055-8abd1aa2-00a4-4fc2-931e-c386a7596dba.png)
 ![image](https://user-images.githubusercontent.com/31237137/134461064-02aff798-275d-4965-bf98-f5b0d78dfd5c.png)
