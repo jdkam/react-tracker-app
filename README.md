@@ -12,3 +12,18 @@ It is a simple task tracker app
 
 --Not deployed publicly
 --tested and progammed on localhost
+
+![image](https://user-images.githubusercontent.com/31237137/134460327-94a3a5d4-0023-433b-a9d2-81f100e5442a.png)
+![image](https://user-images.githubusercontent.com/31237137/134460566-1dcef5d0-1aab-426b-8173-46db0bf0d4cf.png)
+![image](https://user-images.githubusercontent.com/31237137/134460931-8243ac30-fb0e-4b64-b65e-80dcb4cc56f2.png)
+![image](https://user-images.githubusercontent.com/31237137/134460947-d5743835-489b-4f0b-971d-903f3af5b057.png)
+![image](https://user-images.githubusercontent.com/31237137/134460997-3d0614a1-bc46-4d18-b566-f6aff774c2a6.png)
+![image](https://user-images.githubusercontent.com/31237137/134461013-8789cd6d-e1a3-486a-a2c6-8e58bbcebdbd.png)
+![image](https://user-images.githubusercontent.com/31237137/134461034-01e5fe66-41d8-47a7-8e97-daceebd15e01.png)
+![image](https://user-images.githubusercontent.com/31237137/134461055-8abd1aa2-00a4-4fc2-931e-c386a7596dba.png)
+![image](https://user-images.githubusercontent.com/31237137/134461064-02aff798-275d-4965-bf98-f5b0d78dfd5c.png)
+![image](https://user-images.githubusercontent.com/31237137/134461078-5b322833-4008-46e7-94a5-ed3ba6ca14ad.png)
+
+Interacts with JsonServer package to replicate a mock backend database
+![image](https://user-images.githubusercontent.com/31237137/134461195-ed29c2e9-53c9-4e1c-aa60-5310bdd193e0.png)
+
